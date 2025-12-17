@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/yashgoti2106/LeetCode/tree/master/0027-remove-element) |
 | [0503-next-greater-element-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Stack
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/yashgoti2106/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
