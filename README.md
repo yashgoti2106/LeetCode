@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/yashgoti2106/LeetCode/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/yashgoti2106/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
