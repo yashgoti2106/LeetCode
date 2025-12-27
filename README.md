@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/yashgoti2106/LeetCode/tree/master/0027-remove-element) |
 | [0503-next-greater-element-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashgoti2106/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -34,8 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/yashgoti2106/LeetCode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/yashgoti2106/LeetCode/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashgoti2106/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yashgoti2106/LeetCode/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashgoti2106/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
