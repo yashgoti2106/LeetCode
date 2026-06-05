@@ -3,15 +3,18 @@ class Solution {
         int n = nums.length;
         int odd = 1;
         int even = 0;
-        int arr[] = new int[n];
-        for(int i = 0; i < n; i++) {
-            if(nums[i] % 2 ==0) {
-                arr[even] = nums[i];
-                even+=2;             
-            } else  {
-                arr[odd] = nums[i];
+        while(even <n && odd < n) {
+            if(nums[odd]%2 == 1) {
                 odd+=2;
+            }else if (nums[even]%2 == 0) {
+                even += 2;
+            } else {
+                int temp = nums[odd] ;
+                nums[odd] = nums[even];
+                nums[even] = temp;
+                even += 2;
+                odd += 2; 
             }
-        } return arr;
+        } return nums;
     }
 }
