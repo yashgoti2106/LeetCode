@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yashgoti2106/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashgoti2106/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 ## Stack
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/yashgoti2106/LeetCode/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashgoti2106/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0922-sort-array-by-parity-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashgoti2106/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
