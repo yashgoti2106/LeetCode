@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/yashgoti2106/LeetCode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/yashgoti2106/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/yashgoti2106/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashgoti2106/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/yashgoti2106/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/yashgoti2106/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashgoti2106/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/yashgoti2106/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
