@@ -4,7 +4,7 @@ class Solution {
         //     for(int j = 'a' )
         // }
         for(char c = 'a'; c <= 'z' ;c++) {
-            if(sentence.indexOf(c) == -1) {
+            if(sentence.indexOf(c) < 0) {
                 return false;
             }
         } return true;
