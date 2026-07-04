@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/yashgoti2106/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/yashgoti2106/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/yashgoti2106/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/yashgoti2106/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yashgoti2106/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/yashgoti2106/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
