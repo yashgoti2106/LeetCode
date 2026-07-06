@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yashgoti2106/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yashgoti2106/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashgoti2106/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0443-string-compression](https://github.com/yashgoti2106/LeetCode/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/yashgoti2106/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgoti2106/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -105,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashgoti2106/LeetCode/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/yashgoti2106/LeetCode/tree/master/0443-string-compression) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashgoti2106/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
