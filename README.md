@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yashgoti2106/LeetCode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/yashgoti2106/LeetCode/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/yashgoti2106/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/yashgoti2106/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/yashgoti2106/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashgoti2106/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
