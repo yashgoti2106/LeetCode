@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/yashgoti2106/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgoti2106/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1816-truncate-sentence](https://github.com/yashgoti2106/LeetCode/tree/master/1816-truncate-sentence) |
 ## Stack
 |  |
 | ------- |
@@ -111,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/yashgoti2106/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/yashgoti2106/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/yashgoti2106/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/yashgoti2106/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashgoti2106/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
