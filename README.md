@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yashgoti2106/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashgoti2106/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/yashgoti2106/LeetCode/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/yashgoti2106/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/yashgoti2106/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashgoti2106/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/yashgoti2106/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/yashgoti2106/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashgoti2106/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yashgoti2106/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yashgoti2106/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
