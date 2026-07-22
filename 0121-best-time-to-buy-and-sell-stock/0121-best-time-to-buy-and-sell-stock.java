@@ -1,15 +1,15 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int n = prices.length;
-        int minPrice = Integer.MAX_VALUE;
-        int maxpf=0;
-        for(int i = 0; i < n; i++) {
-          if(prices[i] <minPrice) {
-                minPrice= prices[i];
-          }else {
-            maxpf=Math.max(maxpf,prices[i]-minPrice);
-          }
+       int profit = 0;
+       int n = prices.length;
+       int buydate = prices[0];
+       for(int i = 0; i < n; i++) {
+       // int buydate = i;
+        if(prices[i] < buydate) {
+            buydate = prices[i];    
+        } else {
+            profit = Math.max(profit,prices[i] - buydate);
         }
-        return maxpf;
+       } return profit;
     }
 }
