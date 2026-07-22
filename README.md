@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/yashgoti2106/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/yashgoti2106/LeetCode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/yashgoti2106/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/yashgoti2106/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yashgoti2106/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/yashgoti2106/LeetCode/tree/master/0118-pascals-triangle) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yashgoti2106/LeetCode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/yashgoti2106/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yashgoti2106/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/yashgoti2106/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashgoti2106/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/yashgoti2106/LeetCode/tree/master/0509-fibonacci-number) |
