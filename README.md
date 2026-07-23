@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/yashgoti2106/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgoti2106/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1748-sum-of-unique-elements](https://github.com/yashgoti2106/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/yashgoti2106/LeetCode/tree/master/1816-truncate-sentence) |
 ## Stack
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/yashgoti2106/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/yashgoti2106/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/yashgoti2106/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1748-sum-of-unique-elements](https://github.com/yashgoti2106/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashgoti2106/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashgoti2106/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/yashgoti2106/LeetCode/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
