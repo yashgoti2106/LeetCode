@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/yashgoti2106/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgoti2106/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashgoti2106/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/yashgoti2106/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/yashgoti2106/LeetCode/tree/master/1816-truncate-sentence) |
 ## Stack
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/yashgoti2106/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashgoti2106/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgoti2106/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashgoti2106/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/yashgoti2106/LeetCode/tree/master/1748-sum-of-unique-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashgoti2106/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
